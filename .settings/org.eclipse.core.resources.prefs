@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/cryptographie/Cesar.java=UTF-8
+encoding//src/cryptographie/HillChiffrer.java=UTF-8
+encoding//src/cryptographie/RsaChiffrer.java=UTF-8
+encoding//src/cryptographie/mains.java=UTF-8
